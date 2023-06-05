@@ -26,7 +26,7 @@ Print the accuracy of the model.<br>
 Plot the error convergence during training using plt.plot() and plt.show().<br>
 
 ## Program:
-### Developed By: Hiba Mariam M A
+### Developed By: Hiba Rajarajeswari
 ### Reg.No: 212221040056
 ```py
 import numpy as np
